@@ -1,0 +1,40 @@
+# Python虚拟环境
+venv/
+.venv/
+env/
+
+# 字节码文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 分布/打包
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 环境变量文件
+.env
+.env.local
+
+# 日志
+*.log
+
+# IDE配置（根据你使用的工具添加）
+.idea/
+.vscode/
+*.swp
+*.swo
